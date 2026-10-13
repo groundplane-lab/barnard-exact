@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/barnard_exact/__init__.py
+src/barnard_exact/_core.py
+src/barnard_exact/_exact.py
+src/barnard_exact.egg-info/PKG-INFO
+src/barnard_exact.egg-info/SOURCES.txt
+src/barnard_exact.egg-info/dependency_links.txt
+src/barnard_exact.egg-info/requires.txt
+src/barnard_exact.egg-info/top_level.txt
+tests/test_free.py
